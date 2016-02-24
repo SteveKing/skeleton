@@ -1,5 +1,7 @@
 #include "WPILib.h"
 
+#error
+
 class Robot: public IterativeRobot
 {
 private:
